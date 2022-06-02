@@ -1986,3 +1986,25 @@ small {
     font-size: 20px !important;
     
 }
+
+li.list {
+    font-size: 30px;
+    align-items: center;
+    margin-top: 50px;
+}
+
+li.list2 {
+font-size: 15px;
+align-items: center;
+margin-top: 20px;
+}
+
+li.list3 {
+    font-size: 25px;
+    align-items: center;
+    margin-top: 25px;
+    }
+
+p.titled{
+    font-size: 25px !important;
+}
